@@ -32,7 +32,7 @@ class RecipesApp extends StatelessWidget {
 
 class MyHomePage extends StatelessWidget {
   MyHomePage({super.key});
-
+  //테스트
   List<Recipe> recipes = [
     Recipe('recipe number 1', 'image path number 1'),
     Recipe('recipe number 2', 'image path number 2'),
