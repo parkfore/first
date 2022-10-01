@@ -42,7 +42,7 @@ class MyHomePage extends StatelessWidget {
     Recipe('recipe number 6', 'image path number 6'),
     Recipe('recipe number 7', 'image path number 7'),
     Recipe('recipe number 8', 'image path number 8'),
-    Recipe('recipe number 10', 'image path number 9'),
+    Recipe('recipe number 12', 'image path number 9'),
   ];
 
   @override
